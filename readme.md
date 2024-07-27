@@ -1,6 +1,6 @@
 # Gemini Pro Q/A Project
 
-![Project Banner](image.png)
+![Project Banner](Image.png)
 
 ## Overview
 
