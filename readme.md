@@ -1,5 +1,7 @@
 # Gemini Pro Q/A Project
 
+![Project Banner](recording.mp3)
+
 ## Overview
 
 The Gemini Pro Q/A Project is a web application built with Streamlit and Google Generative AI. It allows users to interact with a chatbot powered by the Gemini Pro model, which generates responses based on user questions. The application maintains a history of interactions and displays it in a sidebar for easy reference.
