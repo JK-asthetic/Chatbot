@@ -1,6 +1,6 @@
 # Gemini Pro Q/A Project
 
-![Project Banner](recording.mp3)
+![Project Banner](recording.mp4)
 
 ## Overview
 
